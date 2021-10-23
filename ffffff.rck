@@ -1,0 +1,14 @@
+{mipascal}
+
+edif letra.
+
+casa letra.
+
+casa = "picha".
+
+Escri (casa);
+
+edad numero;
+
+edad = "picha".
+
